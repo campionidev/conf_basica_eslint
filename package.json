@@ -1,0 +1,25 @@
+{
+  "name": "conf_basica_eslint",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/campionidev/conf_basica_eslint#readme",
+  "bugs": {
+    "url": "https://github.com/campionidev/conf_basica_eslint/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/campionidev/conf_basica_eslint.git"
+  },
+  "license": "ISC",
+  "author": "Maximiliano Campioni",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "eslint": "^10.12.0",
+    "globals": "^17.13.0"
+  }
+}
